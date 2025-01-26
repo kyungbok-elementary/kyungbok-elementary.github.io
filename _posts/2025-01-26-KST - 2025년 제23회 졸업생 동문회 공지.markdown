@@ -1,0 +1,24 @@
+---
+title: 2025년 제23회 졸업생 동문회 공지
+date: Sun Jan 26 16:32:56 KST 2025
+last_modified_at: Sun Jan 26 16:32:56 KST 2025
+categories:
+ - announcement
+tags:
+ - announcement
+toc: false
+toc_label: "ToC"
+toc_icon: "cog"
+toc_sticky: true
+---
+
+posted: {{ page.date| date: "%d-%b-%Y" }}
+&amp;
+updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
+{: .notice--primary}
+
+<h1 id="invitation">Invitation</h1>
+
+- Date: Mar 07, 2025 KST (fri)
+- Time: 6PM - 8PM
+- Venue: TBD
