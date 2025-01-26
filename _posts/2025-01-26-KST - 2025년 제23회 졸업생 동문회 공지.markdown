@@ -6,6 +6,7 @@ categories:
  - announcement
 tags:
  - announcement
+ - "23"
 toc: false
 toc_label: "ToC"
 toc_icon: "cog"
