@@ -1,4 +1,5 @@
 ---
+permalink: /announcements/gathering-23-mar-2025
 title: 2025년 제23회 졸업생 동문회 공지
 date: Sun Jan 26 16:32:56 KST 2025
 last_modified_at: Sun Jan 26 16:32:56 KST 2025

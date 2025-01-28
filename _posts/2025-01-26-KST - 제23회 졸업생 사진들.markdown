@@ -1,4 +1,5 @@
 ---
+permalink: /photos/23
 title: 제23회 졸업생 사진들
 date: Sun Jan 26 17:14:56 KST 2025
 last_modified_at: Sun Jan 26 17:14:56 KST 2025

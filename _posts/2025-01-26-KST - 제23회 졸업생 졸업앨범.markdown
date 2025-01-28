@@ -1,4 +1,5 @@
 ---
+permalink: /photos/year-book-23
 title: 제23회 졸업생 졸업앨범
 date: Sun Jan 26 16:58:56 KST 2025
 last_modified_at: Sun Jan 26 16:58:56 KST 2025
