@@ -2,15 +2,15 @@
 permalink: /photos/year-book-23
 title: 제23회 졸업생 졸업앨범
 date: Sun Jan 26 16:58:56 KST 2025
-last_modified_at: Sun Jan 26 16:58:56 KST 2025
+last_modified_at: Sat Mar  8 01:43:03 KST 2025
 categories:
  - photo albums
 tags:
  - photo albums
  - "23"
 toc: true
-toc_label: "ToC"
-toc_icon: "cog"
+toc_label: "&nbsp;Table of Contents"
+toc_icon: "fa-solid fa-list"
 toc_sticky: true
 ---
 
