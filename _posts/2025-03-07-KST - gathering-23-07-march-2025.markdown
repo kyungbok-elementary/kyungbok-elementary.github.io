@@ -2,7 +2,7 @@
 permalink: /announcements/gathering-03-03-march-2025
 title: 2025년 새해 맞이 23기 동문회
 date: Mon Mar 10 10:35:32 PDT 2025
-last_modified_at: Tue Mar 11 04:07:33 PDT 2025
+last_modified_at: Tue Mar 11 16:16:07 PDT 2025
 categories:
  - blog
 tags:
@@ -24,6 +24,26 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 - The 2nd Venue: [황금마차](https://naver.me/53luCGVZ)
 - The 3rd Venue: [압구정변강쇠떡볶이](https://naver.me/FPnE9yA0)
 - The 4th (and last) Venue: [청담맥주](https://naver.me/IxsBlMeM)
+- Attendees:
+김경민
+박윤혁
+박종현
+박해림
+배성환
+백두환
+백재은
+안정진
+윤성희
+윤정식
+이세용
+이정호
+이주희
+이준수
+최대원
+최병두
+한경수
+허준
+
 
 <hr>
 
