@@ -2,7 +2,7 @@
 permalink: /announcements/gathering-03-03-march-2025
 title: 2025년 새해 맞이 23기 동문회
 date: Mon Mar 10 10:35:32 PDT 2025
-last_modified_at: Tue Mar 11 03:59:04 PDT 2025
+last_modified_at: Tue Mar 11 04:01:41 PDT 2025
 categories:
  - blog
 tags:
@@ -90,13 +90,13 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 
 # Another drink
 
-<div class="img-container">
-<img src="/resource/reunion/23-2025-0307/KakaoTalk_Photo_2025-03-09-16-18-43 005.jpeg" style="max-height: 50vh;">
-</div>
-
 마지막으로 청담맥주에서 밤늦게까지 이어진 모임은 우리의 우정이 얼마나 소중한지 다시 한번 일깨워주었다.
 "다음 모임은 좀 더 자주 만나자"라는 약속과 함께 헤어졌지만, 우리 모두 알고 있었다.
 이 만남이 단순한 동창회를 넘어, 우리 인생의 소중한 순간이 되었다는 것을.
+
+<div class="img-container">
+<img src="/resource/reunion/23-2025-0307/KakaoTalk_Photo_2025-03-09-16-18-43 005.jpeg" style="max-height: 50vh;">
+</div>
 
 경복초등학교 23기, 우리는 여전히 서로에게 힘이 되고 있다.
 비록 흰머리가 늘었고 주름이 생겼지만, 우리의 마음만은 여전히 그 교정을 뛰어다니던 아이들 그대로다.
