@@ -1,0 +1,79 @@
+---
+permalink: /photos/23
+title: 제23회 졸업생 사진들
+date: Sun Jan 26 17:14:56 KST 2025
+last_modified_at: Fri Mar 14 01:26:01 KST 2025
+categories:
+ - photos
+tags:
+ - photos
+ - "23"
+toc: true
+toc_label: "ToC"
+toc_icon: "cog"
+toc_sticky: true
+---
+
+posted: {{ page.date| date: "%d-%b-%Y" }}
+&amp;
+updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
+{: .notice--primary}
+
+# 2025
+
+<div class="img-container-justified">
+&nbsp;
+<img src="/resource/23/photos/KakaoTalk_Photo_2025-03-13-09-07-24 002.jpeg">
+<img src="/resource/23/photos/KakaoTalk_Photo_2025-03-13-09-07-16 001.jpeg">
+&nbsp;
+</div>
+
+<div class="img-container">
+<img src="/resource/23/photos/KakaoTalk_Photo_2025-03-13-09-08-07.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/resource/23/photos/KakaoTalk_Photo_2025-03-11-05-40-27-4.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/resource/23/photos/KakaoTalk_Photo_2025-03-11-05-40-27-3.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/resource/23/photos/KakaoTalk_Photo_2025-03-11-05-40-27-7.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/resource/23/photos/KakaoTalk_Photo_2025-03-11-05-40-27-5.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/resource/23/photos/KakaoTalk_Photo_2025-03-11-05-40-27-10.jpeg">
+</div>
+
+# A Long Long time ago in our galaxy Far Far away &hellip;
+
+<!--div class="fig-container">
+<figure style="max-width: 90%;"-->
+<div class="img-container">
+<img src="/resource/23/photos/KakaoTalk_Photo_2025-01-23-20-26-39.jpeg">
+</div>
+<!--figcaption>
+이화영 쌤 반
+</figcaption>
+</figure>
+</div-->
+
+<div class="img-container">
+<img src="/resource/23/photos/KakaoTalk_Photo_2025-01-23-20-31-21.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/resource/23/photos/KakaoTalk_Photo_2025-01-23-22-01-26.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/resource/23/photos/KakaoTalk_Photo_2025-01-23-22-01-59.jpeg">
+</div>
+
