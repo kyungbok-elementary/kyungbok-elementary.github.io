@@ -2,7 +2,7 @@
 permalink: /photos/23
 title: 제23회 졸업생 사진들
 date: Sun Jan 26 17:14:56 KST 2025
-last_modified_at: Fri Mar 14 01:26:01 KST 2025
+last_modified_at: Thu Mar 13 17:36:04 PDT 2025
 categories:
  - photos
 tags:
@@ -50,6 +50,12 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 
 <div class="img-container">
 <img src="/resource/23/photos/KakaoTalk_Photo_2025-03-11-05-40-27-10.jpeg">
+</div>
+
+# 2016
+
+<div class="img-container">
+<img src="/resource/23/photos/KakaoTalk_Photo_2025-03-13-17-11-12.jpeg">
 </div>
 
 # A Long Long time ago in our galaxy Far Far away &hellip;
