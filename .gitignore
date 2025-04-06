@@ -10,3 +10,4 @@ vendor/
 .*.swp
 Gemfile.lock
 .idea/
+log/
