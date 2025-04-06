@@ -9,3 +9,4 @@ vendor/
 .DS_Store
 .*.swp
 Gemfile.lock
+.idea/
