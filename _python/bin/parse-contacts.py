@@ -152,9 +152,10 @@ if __name__ == "__main__":
     df: DataFrame = read_csv(tsv_file_path, sep="\t")
 
     logger.info(f"write to `{google_contacts_csv_filepath}' ...")
-    DataFrame(
+    google_contacts_df: DataFrame = DataFrame(
         [
             convert_person_info_to_google_contact_dict(df.iloc[row_idx])
             for row_idx in range(df.shape[0])
         ]
-    ).to_csv(google_contacts_csv_filepath)
+    )
+    google_contacts_df.to_csv(google_contacts_csv_filepath)
